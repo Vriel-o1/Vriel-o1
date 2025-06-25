@@ -6,8 +6,9 @@
 
 <h2>📺 Game Development Projects:</h2>
 
-- <b>Ascent</b>
-- <b>Planet fall</b>
+- <b>Ascent (Free Movement)</b>
+- <b>Planet fall (2D Platformer)</b>
+- <b>Chaos.io (Fastpace RPG)</b>
 
 <h2>Website Development Projects:</h2>
 
@@ -18,10 +19,9 @@
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[youtube]: 
+[instagram]: 
+[linkedin]: 
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
